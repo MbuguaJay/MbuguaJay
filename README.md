@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, Am Mbugua James
 
 
 ## Skill and Experience
-=> System Administration
+System Administration
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbuguajay)](https://github.com/mbuguajay/github-readme-stats)
