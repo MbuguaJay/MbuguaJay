@@ -2,11 +2,11 @@
 
 
 ## Skill and Experience
-:gear: System Administration
-:cloud: AWS and GCP Cloud
-:shield: Firewall Administration
-:cloud_with_lightning: Virtualization
-:desktop_computer: Bash and Shell Scripting
+- :gear: System Administration
+- :cloud: AWS and GCP Cloud
+- :shield: Firewall Administration
+- :cloud_with_lightning: Virtualization
+- :desktop_computer: Bash and Shell Scripting
 
 
 
