@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UI-UX Design**
 
-- 👯 I’m looking to gain Experience in **Devops**
+- 👯 I’m looking to build my Experience and Expertise in **Devops and Technical Support**
 
 - 💬 Ask me about **Technical Support, HTML, CSS, Javascript and vue**
 
