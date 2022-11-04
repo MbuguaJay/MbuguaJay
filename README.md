@@ -1,4 +1,5 @@
-### Hi there 👋, Am Mbugua James
+<h1 align="center">Hi 👋, I'm James Mbugua</h1>
+<h3 align="center">A passionate Tech Engineer and Support Specialist from Kenya</h3>
 
 
 ## Skill and Experience
