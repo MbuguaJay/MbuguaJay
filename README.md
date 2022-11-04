@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Mbugua</h1>
 <h3 align="center">A passionate Tech Engineer and Support Specialist from Kenya</h3>
-
+<h3>
 - 🔭 I’m currently working on **Python Automation**
 
 - 🌱 I’m currently learning **UI-UX Design**
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **The future is Luminous**
 
-<h3 align="left">Connect with me:</h3>
+</h3>
 <p align="left">
 </p>
 
