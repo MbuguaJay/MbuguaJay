@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Mbugua</h1>
 <h3 align="center">A passionate Tech Engineer and Support Specialist from Kenya</h3>
 
-<h3 align="left">About Me</h3>
+<h1 align="left">About Me</h1>
 
 - 🔭 I’m currently working on **Python Automation**
 
