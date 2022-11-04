@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Tech Engineer and Support Specialist from Kenya</h3>
 
 <h3 align="center">About Me</h3>
+
 - 🔭 I’m currently working on **Python Automation**
 
 - 🌱 I’m currently learning **UI-UX Design**
