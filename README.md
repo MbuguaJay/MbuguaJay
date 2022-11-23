@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Python Automation**
 
-- 🌱 I’m currently learning **UI-UX Design**
+- 🌱 I’m currently learning **Data Mining**
 
-- 👯 I’m looking to build my Experience and Expertise in **Devops and Technical Support**
+- 👯 I’m looking to build my Experience and Expertise in **Devops and Data Science**
 
-- 💬 Ask me about **Technical Support, HTML, CSS, Javascript and vue**
+- 💬 Ask me about **System Administration, Data Centre, Networking, Technical Support and Python**
 
 - ⚡ Fun fact **The future is Luminous**
 
